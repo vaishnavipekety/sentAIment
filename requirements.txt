@@ -1,0 +1,10 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+torch
+praw
+transformers
+matplotlib
+sentenpiece
